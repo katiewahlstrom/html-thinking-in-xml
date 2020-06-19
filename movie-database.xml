@@ -7,6 +7,7 @@
         <length>152 min</length>
         <gross usa>$318,087,620</gross usa>
         <cumulative worldwide gross>$978,087,613</cumulative-worldwide-gross>
+    </film>
 
     <film category="fantasy">
         <title lang="en">Harry Potter and the Chamber of Secrets</title>
@@ -15,6 +16,7 @@
         <length>161 minutes</length>
         <gross usa>USA: $262,450,136</gross usa>
         <cumulative worldwide gross>$879,465,594</cumulative-worldwide-gross>
+    </film>
 
     <film category="fantasy">
         <title lang="en">Harry Potter and the Prisoner of Azkaban</title>
@@ -23,7 +25,8 @@
         <length>142 minutes</length>
         <gross usa>USA: $249,975,996</gross usa>
         <cumulative worldwide gross>$796,093,9854</cumulative-worldwide-gross>
-
+    </film>
+    
     <film category="fantasy">
         <title lang="en">Harry Potter and the Goblet of Fire</title>
         <director>Mike Newell</director>
@@ -31,6 +34,7 @@
         <length>157 minutes</length>
         <gross usa>$290,417,905</gross usa>
         <cumulative worldwide gross>$896,346,413</cumulative-worldwide-gross>
+    </film>
 
     <film category="fantasy">
         <title lang="en"Harry Potter and the Order of the Phoenix</title>
@@ -39,6 +43,7 @@
         <length>138 minutes</length>
         <gross usa>$292,353,4135</gross usa>
         <cumulative worldwide gross>$942,044,613</cumulative-worldwide-gross>
+     </film>
 
     <film category="fantasy">
         <title lang="en"Harry Potter and the Half-Blood Prince</title>
@@ -47,6 +52,7 @@
         <length>153 minutes</length>
         <gross usa>$302,305,431</gross usa>
         <cumulative worldwide gross>$934,326,3963</cumulative-worldwide-gross>
+    </film>
 
     <film category="fantasy">
         <title lang="en"Harry Potter and the Deathly Hallows: Part 1</title>
@@ -55,6 +61,7 @@
         <length>146 minutes</length>
         <gross usa>$296,347,721</gross usa>
         <cumulative worldwide gross>$976,920,103</cumulative-worldwide-gross>
+    </film>
 
     <film category="fantasy">
         <title lang="en"Harry Potter and the Deathly Hallows: Part 2</title>
@@ -63,5 +70,6 @@
         <length>130 minutes</length>
         <gross usa>$381,409,310</gross usa>
         <cumulative worldwide gross>$1,341,932,3983</cumulative-worldwide-gross>
-
+    </film>
+    
 </boxoffice>
